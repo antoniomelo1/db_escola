@@ -1,5 +1,5 @@
 # db_escola
-README - Sistema de Controle de Biblioteca
+README - Sistema de Controle de Biblioteca.
 Este repositório contém o código SQL para a criação de um banco de dados para um sistema de controle de biblioteca. O banco de dados é composto por quatro tabelas: sessão, livro, aluno e empréstimo. Abaixo detalhes sobre cada tabela:
 
 Tabelas
